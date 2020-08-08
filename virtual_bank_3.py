@@ -321,4 +321,4 @@ def history_credit_chack(login, path):
 		banklogin(path)
 
 bankinfo()
-print("Программа завершена.")
+print("Программа завершена. Приходите еще!")
