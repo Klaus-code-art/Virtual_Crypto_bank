@@ -1,0 +1,1 @@
+{'email': 'mail', 'first_name': '1', 'last_name': '1', 'patronymic': '1', 'age': '1', 'city': '1', 'phone_num': '1', 'citizenship': '1', 'Bank_account': '1', 'password': '1'}
